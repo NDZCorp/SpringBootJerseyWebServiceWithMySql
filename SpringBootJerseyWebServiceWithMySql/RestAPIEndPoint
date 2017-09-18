@@ -10,7 +10,7 @@ http://localhost:8080/topics
 -----------------------------------------------------------------------------------------------------------
 updateTopic:::
 http://localhost:8080/topics/topic/update
-{"topicid":"1",title":"CoreJava","category":"Lambda Expression"}
+{"topicId":1,"title":"CoreJava","category":"Mutli Threading"}
 -----------------------------------------------------------------------------------------------------------
 deleteTopic:::
 http://localhost:8080/topics/topicId/{topicId}
